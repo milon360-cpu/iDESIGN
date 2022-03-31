@@ -1,0 +1,15 @@
+/* common code started here  */
+*
+{
+    box-sizing: border-box;
+    padding: 0px;
+    margin:0px;
+    text-decoration: none;
+    outline: none;
+    list-style: none;
+}
+html
+{
+    scroll-behavior: smooth;
+}
+/* common code edn  here  */
